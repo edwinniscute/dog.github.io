@@ -11,7 +11,7 @@
 <script type="text/javascript">
 function myAlert()
 {
-    alert("doggies r cute");
+    alert("doggys r cute");
 	return;
 }
 </script>
