@@ -1,16 +1,14 @@
+<!DOCTYPE html>
+<html>
 <head>
-<title>Internal Script</title>
+   <title>Setting Text Color</title>
 </head>
 <body>
-<script type="text/javascript">
-   document.write("doggyiscute!")
-</script>
+   <h2 style="color: Fuchsia;">
+       DOGGYS ARE CUTE
+   </p>
 </body>
-<head>
-<title>Event Handler Example t</title>
-<script type="text/javascript">
-function myAlert()
-{
+</html>
     alert("doggys r cute");
 	return;
 }
