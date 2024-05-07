@@ -6,7 +6,6 @@
 <body>
    <h2 style="color: Fuchsia;">
        DOGGYS ARE CUTE
-   </p>
 </body>
 </html>
     alert("doggys r cute");
