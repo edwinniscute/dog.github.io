@@ -22,14 +22,6 @@ function myAlert()
    Bring your mouse here to see an alertttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
 </span>
 
-</body>
-<DOCTYPE html>
-<html>
-<head>
-   <title>Using Image in Webpage</title>
-</head>
-<body>
-   <p>Simple Image Insert</p>
-   <img src="(https://i.pinimg.com/originals/4c/8c/e9/4c8ce9bd0497ca84ca45def6b2c81a30.jpg)" alt="Test Image" border="3" align="right" />
-</body>
-</html>
+https://i.pinimg.com/originals/4c/8c/e9/4c8ce9bd0497ca84ca45def6b2c81a30.jpg
+<body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.pinimg.com/originals/4c/8c/e9/4c8ce9bd0497ca84ca45def6b2c81a30.jpg" width="513" height="966"></body>
+<html></html>
