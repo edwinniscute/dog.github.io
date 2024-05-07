@@ -11,7 +11,7 @@
 <script type="text/javascript">
 function myAlert()
 {
-    alert("I am an event handler....");
+    alert("doggies r cute");
 	return;
 }
 </script>
