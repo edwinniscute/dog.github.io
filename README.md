@@ -30,6 +30,6 @@ function myAlert()
 </head>
 <body>
    <p>Simple Image Insert</p>
-   <img src="[/html/images/test.png](https://th.bing.com/th/id/R.40308c788f894558a42c05982834fd86?rik=dJTMT4MZ7GBjsQ&pid=ImgRaw&r=0)" alt="Test Image" />
+   <img src="(https://th.bing.com/th/id/R.40308c788f894558a42c05982834fd86?rik=dJTMT4MZ7GBjsQ&pid=ImgRaw&r=0)>
 </body>
 </html>
