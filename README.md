@@ -25,12 +25,8 @@
 <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://edwinniscute.github.io/">Leo Wilson</a></h1>
-      
 
-      <h1 id="leo">Leo</h1>
-
-<h2 id="this-website-is-about-my-favourite-puppys">This website is about my favourite puppys.<a class="anchorjs-link " href="#this-website-is-about-my-favourite-puppys" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+<h1 id="this-website-is-about-my-favourite-puppys">This website is about my favourite puppys.<a class="anchorjs-link " href="#this-website-is-about-my-favourite-puppys" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h1>
 
 <p><img src="https://i.pinimg.com/474x/65/11/b7/6511b73fd51f054d5daa2720dbaf38a8--ugly-dogs-pet-pictures.jpg" alt="cat"></p>
 
