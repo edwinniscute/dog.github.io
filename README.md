@@ -12,8 +12,6 @@
 {"@context":"https://schema.org","@type":"WebSite","headline":"Leo","name":"Leo Wilson","url":"https://edwinniscute.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=cbc3a11d15d71c1e27a778ef981550f8e29ab252">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
 
