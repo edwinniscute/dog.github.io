@@ -12,16 +12,6 @@
 {"@context":"https://schema.org","@type":"WebSite","headline":"Leo","name":"Leo Wilson","url":"https://edwinniscute.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
 <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
