@@ -62,19 +62,19 @@
 
 <h4 id="these-are-some-of-my-many-puppys">These are some of my many puppys<a class="anchorjs-link " href="#these-are-some-of-my-many-puppys" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="max"><a href="https://edwinniscute.github.io/Max/">Max</a><a class="anchorjs-link " href="#max" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="max"><a href="https://edwinniscute.github.io/Max/">Max</a><a class="anchorjs-link " href="#Max" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="edhwardo"><a href="https://edwinniscute.github.io/Edhwardo/">Edhwardo</a><a class="anchorjs-link " href="#edhwardo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="edhwardo"><a href="https://edwinniscute.github.io/Edhwardo/">Edhwardo</a><a class="anchorjs-link " href="#Edhwardo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="Lily"><a href="https://edwinniscute.github.io/lily/">Lily</a><a class="anchorjs-link " href="#lily" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Lily"><a href="https://edwinniscute.github.io/Lily/">Lily</a><a class="anchorjs-link " href="#lily" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="Josh"><a href="https://edwinniscute.github.io/Adeline/">Josh</a><a class="anchorjs-link " href="#josh" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Josh"><a href="https://edwinniscute.github.io/Josh/">Josh</a><a class="anchorjs-link " href="#Josh" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="leo"><a href="https://edwinniscute.github.io/Leo/">Leo</a><a class="anchorjs-link " href="#leo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="leo"><a href="https://edwinniscute.github.io/Leo/">Leo</a><a class="anchorjs-link " href="#Leo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
 <h4 id="malachi"><a href="https://edwinniscute.github.io/Malachi/">Malachi</a><a class="anchorjs-link " href="#malachi" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="rubric"><a href="https://edwinniscute.github.io/Rubric/">Rubric</a><a class="anchorjs-link " href="#rubric" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="rubric"><a href="https://edwinnwong.github.io/Rubric/">Rubric</a><a class="anchorjs-link " href="#rubric" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
 
       
