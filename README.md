@@ -1,21 +1,20 @@
-<head>
-    
+
     <meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Leo | LeoWilson</title>
 <meta name="generator" content="Jekyll v3.9.5">
-<meta property="og:title" content="Edwinn">
+<meta property="og:title" content="Leo">
 <meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://edwinnwong.github.io/">
-<meta property="og:url" content="https://edwinnwong.github.io/">
-<meta property="og:site_name" content="Edwinn Wong">
+<link rel="canonical" href="https://edwinniscute.github.io/">
+<meta property="og:url" content="https://edwinniscute.github.io/">
+<meta property="og:site_name" content="Leo Wilson">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="Edwinn">
+<meta property="twitter:title" content="Leo">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Edwinn","name":"Edwinn Wong","url":"https://edwinnwong.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"Leo","name":"Leo Wilson","url":"https://edwinniscute.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=cbc3a11d15d71c1e27a778ef981550f8e29ab252">
@@ -35,16 +34,16 @@
 <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://edwinnwong.github.io/">Edwinn Wong</a></h1>
+      <h1><a href="https://edwinniscute.github.io/">Leo Wilson</a></h1>
       
 
-      <h1 id="edwinn">Edwinn</h1>
+      <h1 id="leo">Leo</h1>
 
-<h2 id="this-website-is-about-my-favourite-cats">This website is about my favourite cats.<a class="anchorjs-link " href="#this-website-is-about-my-favourite-cats" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+<h2 id="this-website-is-about-my-favourite-puppys">This website is about my favourite puppys.<a class="anchorjs-link " href="#this-website-is-about-my-favourite-puppys" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
 
 <p><img src="https://i.pinimg.com/474x/65/11/b7/6511b73fd51f054d5daa2720dbaf38a8--ugly-dogs-pet-pictures.jpg" alt="cat"></p>
 
-<h2 id="this-is-edvin-hes-is-my-favourite-cat-and-he-looks-a-little-bit-special">This is Edvin, hes is my favourite cat and he looks a little bit special!<a class="anchorjs-link " href="#this-is-edvin-hes-is-my-favourite-cat-and-he-looks-a-little-bit-special" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+<h2 id="this-is-loe-hes-is-my-favourite-puppy-and-he-looks-a-little-bit-special">This is loe, hes is my favourite cat and he looks a little bit special!<a class="anchorjs-link " href="#this-is-loe-hes-is-my-favourite-cat-and-he-looks-a-little-bit-special" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
 
 <h3 id="checklist">CHECKLIST<a class="anchorjs-link " href="#checklist" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
 
@@ -66,23 +65,23 @@
   </li>
 </ul>
 
-<h3 id="i-love-cats">I LOVE CATS<a class="anchorjs-link " href="#i-love-cats" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
+<h3 id="i-love-cats">I LOVE PUPPYS<a class="anchorjs-link " href="#i-love-puppys" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
 
-<h4 id="these-are-some-of-my-many-cats">These are some of my many cats<a class="anchorjs-link " href="#these-are-some-of-my-many-cats" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="these-are-some-of-my-many-puppys">These are some of my many puppys<a class="anchorjs-link " href="#these-are-some-of-my-many-puppys" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="max"><a href="https://edwinnwong.github.io/Max/">Max</a><a class="anchorjs-link " href="#max" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="max"><a href="https://edwinniscute.github.io/Max/">Max</a><a class="anchorjs-link " href="#max" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="edhwardo"><a href="https://edwinnwong.github.io/Edhwardo/">Edhwardo</a><a class="anchorjs-link " href="#edhwardo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="edhwardo"><a href="https://edwinniscute.github.io/Edhwardo/">Edhwardo</a><a class="anchorjs-link " href="#edhwardo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="sherwyn"><a href="https://edwinnwong.github.io/Sherwyn/">Sherwyn</a><a class="anchorjs-link " href="#sherwyn" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="lily"><a href="https://edwinniscute.github.io/Sherwyn/">Sherwyn</a><a class="anchorjs-link " href="#lily" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="adeline"><a href="https://edwinnwong.github.io/Adeline/">Adeline</a><a class="anchorjs-link " href="#adeline" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="josh"><a href="https://edwinniscute.github.io/Adeline/">Adeline</a><a class="anchorjs-link " href="#josh" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="leo"><a href="https://edwinnwong.github.io/Leo/">Leo</a><a class="anchorjs-link " href="#leo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="leo"><a href="https://edwinniscute.github.io/Leo/">Leo</a><a class="anchorjs-link " href="#leo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="malachi"><a href="https://edwinnwong.github.io/Malachi/">Malachi</a><a class="anchorjs-link " href="#malachi" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="malachi"><a href="https://edwinniscute.github.io/Malachi/">Malachi</a><a class="anchorjs-link " href="#malachi" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="rubric"><a href="https://edwinnwong.github.io/Rubric/">Rubric</a><a class="anchorjs-link " href="#rubric" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="rubric"><a href="https://edwinniscute.github.io/Rubric/">Rubric</a><a class="anchorjs-link " href="#rubric" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
 
       
