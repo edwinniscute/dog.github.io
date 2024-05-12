@@ -1,12 +1,94 @@
-<html>
 <head>
-   <title>Setting Text Color</title>
-</head>
+    
+    <meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Leo | LeoWilson</title>
+<meta name="generator" content="Jekyll v3.9.5">
+<meta property="og:title" content="Edwinn">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://edwinnwong.github.io/">
+<meta property="og:url" content="https://edwinnwong.github.io/">
+<meta property="og:site_name" content="Edwinn Wong">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Edwinn">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Edwinn","name":"Edwinn Wong","url":"https://edwinnwong.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=cbc3a11d15d71c1e27a778ef981550f8e29ab252">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
 <body>
-   <h2 style="color: Fuchsia;">
-       I like puppys
-<head><meta name="viewport" content="width=device-width, minimum-scale=0.1">
-<body style="margin: 0px; height: 50%; background-color: 
-;"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://th.bing.com/th/id/R.29e86fe7b3d7acca2d7fe8c81a26e268?rik=qf1gn4jsTx5b%2fg&amp;riu=http%3a%2f%2f3.bp.blogspot.com%2f-GfiMn3VSfnc%2fVigKnxj9x5I%2fAAAAAAAA9zI%2fCXLjzRlI2yA%2fs1600%2fboo2.jpg&amp;ehk=DvzwfSl3dnzskksR98H%2bh8SmlCfEC3seZKZBwNde3i0%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0" width="350" height="400"></body>
-<html>
-<img src="https://th.bing.com/th/id/R.f3ad0e81fde02a978f87c1bfb332da21?rik=X84kM5UaNHwJkg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-1tWrTmex2gU%2fUsoVHl9KqcI%2fAAAAAAAAAME%2f1NL9LkueDD8%2fs1600%2fphoto%2b(5).JPG&ehk=7%2f43NF0R0lTarf%2fO77Jcdm6JBJvNgeZrbfn3OndP3PM%3d&risl=&pid=ImgRaw&r=0" alt="Girl in a jacket" width="500" height="600">
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://edwinnwong.github.io/">Edwinn Wong</a></h1>
+      
+
+      <h1 id="edwinn">Edwinn</h1>
+
+<h2 id="this-website-is-about-my-favourite-cats">This website is about my favourite cats.<a class="anchorjs-link " href="#this-website-is-about-my-favourite-cats" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+
+<p><img src="https://i.pinimg.com/474x/65/11/b7/6511b73fd51f054d5daa2720dbaf38a8--ugly-dogs-pet-pictures.jpg" alt="cat"></p>
+
+<h2 id="this-is-edvin-hes-is-my-favourite-cat-and-he-looks-a-little-bit-special">This is Edvin, hes is my favourite cat and he looks a little bit special!<a class="anchorjs-link " href="#this-is-edvin-hes-is-my-favourite-cat-and-he-looks-a-little-bit-special" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+
+<h3 id="checklist">CHECKLIST<a class="anchorjs-link " href="#checklist" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
+
+<ul class="task-list">
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Github account</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Repository</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Image</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Link to webpage</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Add color, font and centre</p>
+  </li>
+</ul>
+
+<h3 id="i-love-cats">I LOVE CATS<a class="anchorjs-link " href="#i-love-cats" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
+
+<h4 id="these-are-some-of-my-many-cats">These are some of my many cats<a class="anchorjs-link " href="#these-are-some-of-my-many-cats" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+
+<h4 id="max"><a href="https://edwinnwong.github.io/Max/">Max</a><a class="anchorjs-link " href="#max" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+
+<h4 id="edhwardo"><a href="https://edwinnwong.github.io/Edhwardo/">Edhwardo</a><a class="anchorjs-link " href="#edhwardo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+
+<h4 id="sherwyn"><a href="https://edwinnwong.github.io/Sherwyn/">Sherwyn</a><a class="anchorjs-link " href="#sherwyn" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+
+<h4 id="adeline"><a href="https://edwinnwong.github.io/Adeline/">Adeline</a><a class="anchorjs-link " href="#adeline" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+
+<h4 id="leo"><a href="https://edwinnwong.github.io/Leo/">Leo</a><a class="anchorjs-link " href="#leo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+
+<h4 id="malachi"><a href="https://edwinnwong.github.io/Malachi/">Malachi</a><a class="anchorjs-link " href="#malachi" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+
+<h4 id="rubric"><a href="https://edwinnwong.github.io/Rubric/">Rubric</a><a class="anchorjs-link " href="#rubric" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
+
+</body>
