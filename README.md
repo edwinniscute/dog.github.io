@@ -1,5 +1,3 @@
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Leo | LeoWilson</title>
 <meta name="generator" content="Jekyll v3.9.5">
 <meta property="og:title" content="Leo">
