@@ -1,7 +1,4 @@
 
-    <meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Leo | LeoWilson</title>
 <meta name="generator" content="Jekyll v3.9.5">
@@ -73,9 +70,9 @@
 
 <h4 id="edhwardo"><a href="https://edwinniscute.github.io/Edhwardo/">Edhwardo</a><a class="anchorjs-link " href="#edhwardo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="lily"><a href="https://edwinniscute.github.io/lily/">lily</a><a class="anchorjs-link " href="#lily" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Lily"><a href="https://edwinniscute.github.io/lily/">Lily</a><a class="anchorjs-link " href="#lily" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="josh"><a href="https://edwinniscute.github.io/Adeline/">josh</a><a class="anchorjs-link " href="#josh" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Josh"><a href="https://edwinniscute.github.io/Adeline/">Josh</a><a class="anchorjs-link " href="#josh" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
 <h4 id="leo"><a href="https://edwinniscute.github.io/Leo/">Leo</a><a class="anchorjs-link " href="#leo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
