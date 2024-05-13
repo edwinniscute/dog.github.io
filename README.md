@@ -58,7 +58,7 @@
 
 <h4 id="Malachi"><a href="https://ilikepuppys123.github.io/Malachi/">Malachi</a><a class="anchorjs-link " href="#Malachi" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="Finn"><a href="https://edwinnwong.github.io/Finn/">Finn</a><a class="anchorjs-link " href="#Finn" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Finn"><a href="https://ilikepuppys123.github.io/Finn/">Finn</a><a class="anchorjs-link " href="#Finn" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 <h4 id="Rubric"><a href="https://edwinnwong.github.io/Rubric/">Rubric</a><a class="anchorjs-link " href="#Rubric" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
       
