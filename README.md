@@ -2,14 +2,14 @@
 <meta name="generator" content="Jekyll v3.9.5">
 <meta property="og:title" content="Leo">
 <meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://edwinniscute.github.io/">
-<meta property="og:url" content="https://edwinniscute.github.io/">
+<link rel="canonical" href="https://ilikepuppys123.github.io/">
+<meta property="og:url" content="https://ilikepuppys123.github.io/">
 <meta property="og:site_name" content="Leo Wilson">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="Leo">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Leo","name":"Leo Wilson","url":"https://edwinniscute.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"Leo","name":"Leo Wilson","url":"https://ilikepuppys123.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
 
 <body>
@@ -46,17 +46,17 @@
 
 <h4 id="these-are-some-of-my-many-puppys">These are some of my many puppys<a class="anchorjs-link " href="#these-are-some-of-my-many-puppys" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="<Max"><a href="https://edwinniscute.github.io/Max/">Max</a><a class="anchorjs-link " href="#Max" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="<Max"><a href="https://ilikepuppys123.github.io/Max/">Max</a><a class="anchorjs-link " href="#Max" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="Edwiggle"><a href="https://edwinniscute.github.io/Edwiggle/">Edwiggle</a><a class="anchorjs-link " href="#Edwiggle" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Edwiggle"><a href="https://ilikepuppys123.github.io/Edwiggle/">Edwiggle</a><a class="anchorjs-link " href="#Edwiggle" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="Lily"><a href="https://edwinniscute.github.io/Lily/">Lily</a><a class="anchorjs-link " href="#Lily" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Lily"><a href="https://ilikepuppys123.github.io/Lily/">Lily</a><a class="anchorjs-link " href="#Lily" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="Josh"><a href="https://edwinniscute.github.io/Josh/">Josh</a><a class="anchorjs-link " href="#Josh" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Josh"><a href="https://ilikepuppys123.github.io/Josh/">Josh</a><a class="anchorjs-link " href="#Josh" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="Leo"><a href="https://edwinniscute.github.io/Leo/">Leo</a><a class="anchorjs-link " href="#Leo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Leo"><a href="https://ilikepuppys123.github.io/Leo/">Leo</a><a class="anchorjs-link " href="#Leo" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="Malachi"><a href="https://edwinniscute.github.io/Malachi/">Malachi</a><a class="anchorjs-link " href="#Malachi" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Malachi"><a href="https://ilikepuppys123.github.io/Malachi/">Malachi</a><a class="anchorjs-link " href="#Malachi" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
 <h4 id="Rubric"><a href="https://edwinnwong.github.io/Rubric/">Rubric</a><a class="anchorjs-link " href="#Rubric" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
