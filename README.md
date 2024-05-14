@@ -54,7 +54,7 @@
 
 <h4 id="Josh"><a href="https://ilikepuppys123.github.io/Josh/">Josh</a><a class="anchorjs-link " href="#Josh" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
-<h4 id="Sam"><a href="https://ilikepuppys123.github.io/Leo/">Sam</a><a class="anchorjs-link " href="#Sam" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
+<h4 id="Sam"><a href="https://ilikepuppys123.github.io/Sam/">Sam</a><a class="anchorjs-link " href="#Sam" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
 <h4 id="Malachi"><a href="https://ilikepuppys123.github.io/Malachi/">Malachi</a><a class="anchorjs-link " href="#Malachi" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
 
