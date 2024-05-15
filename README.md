@@ -21,26 +21,6 @@
 
 <h2 id="this-is-loe-hes-is-my-favourite-puppy-and-he-looks-a-little-bit-special">This is loe, hes is my favourite puppy and he looks really cool!<a class="anchorjs-link " href="#this-is-loe-hes-is-my-favourite-cat-and-he-looks-a-little-bit-special" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
 
-<h3 id="checklist">CHECKLIST<a class="anchorjs-link " href="#checklist" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
-
-<ul class="task-list">
-  <li class="task-list-item">
-    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Github account</p>
-  </li>
-  <li class="task-list-item">
-    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Repository</p>
-  </li>
-  <li class="task-list-item">
-    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Image</p>
-  </li>
-  <li class="task-list-item">
-    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Link to webpage</p>
-  </li>
-  <li class="task-list-item">
-    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked">Add color, font and centre</p>
-  </li>
-</ul>
-
 <h3 id="i-love-puppys">I LOVE PUPPYS<a class="anchorjs-link " href="#i-love-puppys" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>
 
 <h4 id="these-are-some-of-my-many-puppys">These are some of my many puppys<a class="anchorjs-link " href="#these-are-some-of-my-many-puppys" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>
