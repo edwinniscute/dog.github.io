@@ -9,7 +9,8 @@
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="Leo">
 <script type="application/ld+json">
-
+{"@context":"https://schema.org","@type":"WebSite","headline":"Leo","name":"Leo Wilson","url":"https://ilikepuppys123.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
 <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
